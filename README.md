@@ -9,3 +9,5 @@ We have used two dataset for this purpose are :
  * [A dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home) containing data about approximately seven thousand iOS apps from the App Store.
 
 We concluded that taking a popular book (perhaps a more recent book) and turning it into an app could be profitable for both the Google Play and the App Store markets. The markets are already full of libraries, so we need to add some special features besides the raw version of the book. This might include daily quotes from the book, an audio version of the book, quizzes on the book, a forum where people can discuss the book, etc.
+
+[This](https://github.com/aakashsankritya/data-analysis-using-python/blob/master/AppData.ipynb) is the link of Jupyter notebook where I have performed all the task.
